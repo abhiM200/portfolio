@@ -1,0 +1,16 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio website using HTML and CSS",
+  "main": "index.html",
+  "scripts": {
+    "dev": "echo 'This is a static site. Open index.html in a browser or use a local server.'",
+    "build": "echo 'No build step required for static site.'"
+  },
+  "keywords": ["portfolio", "html", "css"],
+  "author": "Abhishek Kumar Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.0"
+  }
+}
